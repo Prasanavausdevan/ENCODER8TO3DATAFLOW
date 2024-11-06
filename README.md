@@ -68,7 +68,7 @@ endmodule
 
 ![ENCODER RTL](https://github.com/user-attachments/assets/898bbd90-b630-4645-a0fd-fbc8e67eeeb7)
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIAGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![ENCODER](https://github.com/user-attachments/assets/9153cb3f-7c59-4a25-ad8a-203eb550aebb)
 
